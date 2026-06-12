@@ -91,73 +91,8 @@ Classification Module
         │
         ▼
 CyberShield Dashboard
+
 ```
-
----
-
-## 📂 Project Structure
-
-```text
-cybershield-extension/
-│
-├── manifest.json
-├── popup.html
-├── popup.css
-├── popup.js
-├── content.js
-├── classifier.js
-├── features.js
-│
-├── assets/
-│   ├── icon16.png
-│   ├── icon48.png
-│   └── icon128.png
-│
-└── screenshot/
-```
-
----
-
-## 🧠 Feature Extraction
-
-The following features are analyzed:
-
-* URL Length
-* HTTPS Availability
-* Suspicious Characters
-* Number of Forms
-* Number of Input Fields
-* Number of External Links
-* Number of Iframes
-* JavaScript Redirects
-* Popups Detection
-* Domain Length
-* Subdomain Count
-* IP Address in URL
-* URL Shorteners
-* Suspicious TLD Detection
-* Phishing Keywords
-
----
-
-## 🔍 Classification Logic
-
-CyberShield uses a rule-based security assessment model.
-
-Risk indicators are assigned weights based on their severity.
-
-Examples:
-
-* Long URL
-* Excessive Forms
-* Multiple Suspicious Keywords
-* IP-based URLs
-* Suspicious Redirects
-* Suspicious URL Structures
-
-The cumulative score determines the final classification.
-
----
 
 ## 📊 Dashboard Components
 
@@ -281,6 +216,7 @@ Open any website and click the CyberShield extension icon.
 ## 👨‍💻 Author
 
 Anas Zahid
+
 Developed as a Privacy & Usable Security Project.
 
 CyberShield Website Analyzer © 2026
