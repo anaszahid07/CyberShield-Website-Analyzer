@@ -280,6 +280,7 @@ Open any website and click the CyberShield extension icon.
 
 ## 👨‍💻 Author
 
+Anas Zahid
 Developed as a Privacy & Usable Security Project.
 
 CyberShield Website Analyzer © 2026
