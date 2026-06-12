@@ -193,20 +193,20 @@ Provides analyst-style observations explaining why a website was classified in a
 
 ### Dashboard Overview
 
-<img src="https://raw.githubusercontent.com/anaszahid07/CyberShield-Website-Analyzer/main/screenshot/dashboard.png" width="900">
+<img src="screenshot/dashboard.png" width="900">
 
 ### Safe Website Detection
 
-<img src="screenshots/safe-site.png" width="900">
+<img src="screenshot/safe-site.png" width="900">
 
 
 ### Suspicious Website Detection
 
-<img src="screenshots/suspicious-site.png" width="900">
+<img src="screenshot/suspicious-site.png" width="900">
 
 ### Threat Intelligence Analysis
 
-<img src="screenshots/threat-intelligence.png" width="900">
+<img src="screenshot/threat-intelligence.png" width="900">
 
 ---
 
