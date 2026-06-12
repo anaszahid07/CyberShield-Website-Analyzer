@@ -193,19 +193,20 @@ Provides analyst-style observations explaining why a website was classified in a
 
 ### Dashboard Overview
 
-![Dashboard](screenshot/dashboard.png)
+<img src="screenshots/dashboard.png" width="900">
 
 ### Safe Website Detection
 
-![Safe Website](screenshot/safe-site.png)
+<img src="screenshots/safe-site.png" width="900">
+
 
 ### Suspicious Website Detection
 
-![Suspicious Website](screenshot/suspicious-site.png)
+<img src="screenshots/suspicious-site.png" width="900">
 
 ### Threat Intelligence Analysis
 
-![Threat Intelligence](screenshot/threat-intelligence.png)
+<img src="screenshots/threat-intelligence.png" width="900">
 
 ---
 
