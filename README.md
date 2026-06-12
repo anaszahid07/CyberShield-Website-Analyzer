@@ -193,7 +193,7 @@ Provides analyst-style observations explaining why a website was classified in a
 
 ### Dashboard Overview
 
-<img src="screenshots/dashboard.png" width="900">
+<img src="https://raw.githubusercontent.com/anaszahid07/CyberShield-Website-Analyzer/main/screenshot/dashboard.png" width="900">
 
 ### Safe Website Detection
 
