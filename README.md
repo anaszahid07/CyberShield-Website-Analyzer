@@ -191,30 +191,18 @@ Provides analyst-style observations explaining why a website was classified in a
 
 ## 📸 Screenshots
 
-<h3 align="center">Dashboard Overview</h3>
-
 <p align="center">
-  <img src="dashboard.png" width="500">
+  <img src="dashboard.png" width="700">
 </p>
 
-<h3 align="center">Safe Website Detection</h3>
-
 <p align="center">
-  <img src="safe-site.png" width="500">
+  <img src="safe-site.png" width="450">
+  <img src="suspicious-site.png" width="450">
 </p>
 
-<h3 align="center">Suspicious Website Detection</h3>
-
 <p align="center">
-  <img src="suspicious-site.png" width="500">
+  <img src="threat-intelligence.png" width="700">
 </p>
-
-<h3 align="center">Threat Intelligence Analysis</h3>
-
-<p align="center">
-  <img src="threat-intelligence.png" width="500">
-</p>
----
 
 ## 🚀 Installation
 
